@@ -1,4 +1,6 @@
 # Archivos
+*.zip
+*.rar
 /*.dat
 /*.jar
 /*.pdf
